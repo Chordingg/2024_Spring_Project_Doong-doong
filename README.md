@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:a5bbe9,100:a4dbc6&height=180&text=Project%20Doong-doong%20&animation=fadeIn&fontColor=000000&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:a5bbe9,100:a4dbc6&height=180&text=Project%20Doong-doong%20&animation=fadeIn&fontColor=000000&fontSize=40" ✈️/>
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 프로젝트 기간 </h2>  
