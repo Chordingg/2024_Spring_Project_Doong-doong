@@ -1,33 +1,12 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:a5bbe9,100:a4dbc6&height=180&text=Project%20Doong-doong%20✈️%20&animation=fadeIn&fontColor=000000&fontSize=40" />
     <div align= "center"> 
-        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 프로젝트 기간 </h2>  
-        <h3>2024년 4월 19일 ~ 2024년 5월 20일</h3> 
      </div>
 </div>
 
 ***
 
-    ## 📚 목차 📚
 
-1. [📖 프로젝트 소개](#-Doong-doong-프로젝트-)
-1. [📂 PPT](#-PPT-)
-3. [🔧 Development Environment](#development-environment)
-4. [🔔 Prerequisite](#prerequisite)
-5. [❗ How to Run in IntelliJ](#how-to-run-in-intellij)
-6. [💡 기획 의도](#기획-의도)
-7. [🙋‍♀️ Team_Member](#%EF%B8%8F-team_member-%EF%B8%8F)
-8. [📋 개발 일지](#개발-일지)
-9. [🔨 사용 기술](#-사용-기술-)
-10. [📈  요구 명세서](#-요구-명세서-)
-11. [📊 Diagram](#-다이어그램-)
-12. [📝 기능 설명](#-기능-설명-)
-13. [📹 시연 영상](#-시연-영상-) 
-    
-<hr>
-
-
-## ✈️ Project Doong-doong ✈️
 
 ```
 프로젝트 기간 : 2024년 4월 19일 ~ 2024년 5월 20일
@@ -53,7 +32,7 @@
 
 ## 📖 구현 방법
 ```
-JSP 와 Servlet을 이용해 Controller 에서 Action/ActionFactory 를 통하여 구현함
+FrameWork Spring 을 이용하여 ...
 ```
 
 <hr>
@@ -63,9 +42,10 @@ JSP 와 Servlet을 이용해 Controller 에서 Action/ActionFactory 를 통하�
 ## 🔧 Development Environment 🔧
 ```
 언어 : Java(jdk 11), JSP
-서버 : Apache Tomcat 9.0
+서버 : Apache Tomcat 9.0 (3.9.18)
+프레임워크 : MyBatis (3.5.11)
 DBMS : OracleDB (11)
-API, 라이브러리 : Lombok
+API, 라이브러리 : Lombok, JQuery
 ```
 
 <hr>
@@ -73,7 +53,7 @@ API, 라이브러리 : Lombok
 ## 🔔 Prerequisite 🔔
 ```
 OracleDB 1521 포트로 연결 
-Tomcat 8080 포트 연결
+Tomcat 8181 포트 연결
 ```
 
 <hr>
@@ -87,18 +67,13 @@ Tomcat 8080 포트 연결
 
 ## 🙋‍♀️ Team_Member 🙋‍♀️
 
-#### [😆 Kim Hyuk 👉 GitHub]
-#### [😆 Im Soo Jin 👉 GitHub]
-#### [😆 Lee Min Suk 👉 GitHub]
 #### [😆 Chordingg 👉 GitHub](https://github.com/Chordingg)
-#### [😆 Choi yung Seo 👉 GitHub] 
+#### [😆 Jang seh yul 👉 GitHub] 
 
 ## 🙋‍♀️ 역할 분담 🙋‍♀️
-#### 🔨 Kim Hyuk 👉 상품 상세 / 상품 등록 / 상품 수정 / 상품 삭제]
-#### 🔨 Im Soo Jin 👉 상품 장바구니 ]
-#### 🔨 Lee Min Suk 👉 상품 결제 페이지 ]
-#### 🔨 Chordingg 👉 상품 리스트 페이지 / 회원가입 / 로그인 / CSS ]
-#### 🔨 Choi yung Seo 👉 상품 리뷰(댓글) / QnA ] 
+
+#### 🔨 Chordingg 👉 상품 리뷰(댓글) / QnA ] 
+#### 🔨 Jang seh yul 👉 상품 리뷰(댓글) / QnA ] 
 
 <hr>
 
@@ -132,11 +107,19 @@ Tomcat 8080 포트 연결
 ## 📊 Diagram 📊
 
 <details><summary>Usecase</summary>
-<img src="https://github.com/Chordingg/2024_AWS_JSP_Project_griptok/assets/157094467/8f64bd54-3168-473c-8561-ad97fde61443" />
+
+</details>
+
+<details><summary>개념적 모델링</summary>
+    <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/563300e2-0971-4db3-85f9-0e8f98c5871e" />
+</details>
+
+<details><summary>논리적 모델</summary>
+    <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/b458f4d5-6392-46c4-ac2b-1d21d8a49c3a" />
 </details>
 
 <details><summary>ERD</summary>
-<img src="https://github.com/Chordingg/2024_AWS_JSP_Project_griptok/assets/157094467/1e777cbc-d841-45fa-b32d-2e4b63417a43" />
+    
 </details>
 
 <hr>
@@ -145,32 +128,20 @@ Tomcat 8080 포트 연결
 
 <details><summary>회원가입 및 로그인</summary>
 
-
-https://github.com/Chordingg/2024_JSP-Servlet_Project_Griptok/assets/157094467/a288e796-1959-4f44-9add-8261da3ef422
-
-
 </details>
+
     
 <details><summary>상품 리스트 & 상세보기</summary>
 
-
-https://github.com/Chordingg/2024_JSP-Servlet_Project_Griptok/assets/157094467/9112a6cc-9f3e-4268-a020-648ce0e31385
-
-
 </details>
+
 
 <details><summary>리뷰 & QnA</summary>
 
-
-https://github.com/Chordingg/2024_JSP-Servlet_Project_Griptok/assets/157094467/19c62da2-689d-47f8-afff-93f19f2f7bd8
-
-
 </details>
 
+
 <details><summary>장바구니 & 결제</summary>
-
-
-https://github.com/Chordingg/2024_JSP-Servlet_Project_Griptok/assets/157094467/668e6a16-61af-47dc-869d-ca7ee254f43e
 
 </details>
 
@@ -179,23 +150,6 @@ https://github.com/Chordingg/2024_JSP-Servlet_Project_Griptok/assets/157094467/6
 ## 📂 PPT 📂
 
 <details><summary>PPT</summary>
-      
-![image](https://github.com/Chordingg/2024_AWS_JSP_Project_griptok/assets/157094467/14c1a1aa-16ac-4798-b761-47e643832151)
-![image](https://github.com/Chordingg/2024_AWS_JSP_Project_griptok/assets/157094467/7f51adcb-87f2-494c-b257-6b09aeb4a6d0)
-![image](https://github.com/Chordingg/2024_AWS_JSP_Project_griptok/assets/157094467/49c45790-db17-4554-ab04-e6c227c6a229)
-![image](https://github.com/Chordingg/2024_AWS_JSP_Project_griptok/assets/157094467/f278f1f8-acfc-42e8-a9f4-ae5d96c58b03)
-![image](https://github.com/Chordingg/2024_AWS_JSP_Project_griptok/assets/157094467/9ae78c38-8e8e-45c0-9e84-db813162c837)
-![image](https://github.com/Chordingg/2024_AWS_JSP_Project_griptok/assets/157094467/71229bf9-95d2-403e-9189-f7263958c932)
-![image](https://github.com/Chordingg/2024_AWS_JSP_Project_griptok/assets/157094467/15b4807e-9559-4dcc-892e-843a13dcd9c3)
-![image](https://github.com/Chordingg/2024_AWS_JSP_Project_griptok/assets/157094467/c9c3ce5b-6f6a-4b5c-9201-d0dc31a7327d)
-![image](https://github.com/Chordingg/2024_AWS_JSP_Project_griptok/assets/157094467/9c27733d-6bfd-49c6-84d6-b0e5d7543de6)
-![image](https://github.com/Chordingg/2024_AWS_JSP_Project_griptok/assets/157094467/d3fbd2bc-edc1-4b7c-9935-869e998e4727)
-![image](https://github.com/Chordingg/2024_AWS_JSP_Project_griptok/assets/157094467/c7de0a81-8f77-4fda-8986-3b4c4fc32cb0)
-![image](https://github.com/Chordingg/2024_AWS_JSP_Project_griptok/assets/157094467/f6eb2c1b-c61e-4628-aed9-e668c9bb5dc2)
-![image](https://github.com/Chordingg/2024_AWS_JSP_Project_griptok/assets/157094467/6a165459-ea1d-4f40-8d17-b6ad89d14e78)
-![image](https://github.com/Chordingg/2024_AWS_JSP_Project_griptok/assets/157094467/214d744f-0e39-4183-9314-76a5f74e00a6)
-
-
 
 </details>
 
