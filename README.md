@@ -115,6 +115,8 @@ Tomcat 8181 포트 연결
 
 <details><summary>논리적 모델</summary>
     <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/b458f4d5-6392-46c4-ac2b-1d21d8a49c3a" />
+    <hr>
+    <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/0542ecfb-47ce-48b6-ba09-e55adff61f2a" />
 </details>
 
 <details><summary>ERD</summary>
