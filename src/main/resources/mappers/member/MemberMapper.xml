@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.doongdoong.web.member.MemberMapper">
+
+	<insert id="insert">
+		insert into tbl_member(userid, userpw, membername, phone)
+		values(#{userid}, #{userpw}, #{membername}, #{phone})
+	</insert>
+
+	<insert id="insertAuth">
+		insert into tbl_member_auth(userid, auth, memberAddr1, memberAddr2, memberAddr3)
+		values(#{userid}, #{auth}, #{memberAddr1}, #{memberAddr2}, #{memberAddr3})
+	</insert>
+
+	<resultMap type="com.doongdoong.web.member.MemberVO" id="memberMap">
+
+		<id property="userid" column="userid" />
+
+		<result property="userid" column="userid" />
+		<result property="userpw" column="userpw" />
+		<result property="membername" column="membername" />
+		<result property="phone" column="phone" />
+		<result property="regDate" column="regdate" />
+		<result property="updateDate" column="updatedate" />
+		<result property="enabled" column="enabled" />
+
+		<collection property="authList" resultMap="authMap"></collection>
+	</resultMap>
+
+	<resultMap type="com.doongdoong.web.member.AuthVO" id="authMap">
+		<result property="userid" column="userid" />
+		<result property="auth" column="auth" />
+		<result property="memberAddr1" column="memberAddr1" />
+		<result property="memberAddr2" column="memberAddr2" />
+		<result property="memberAddr3" column="memberAddr3" />
+	</resultMap>
+
+	<select id="read" resultMap="memberMap">
+		select
+		m.userid, userpw, membername, phone, enabled, regdate, 
+		updatedate, memberAddr1, memberAddr2, memberAddr3, auth
+		from
+		tbl_member m left join tbl_member_auth a
+		on m.userid = a.userid
+		where m.userid = #{userid}
+	</select>
+
+</mapper>
