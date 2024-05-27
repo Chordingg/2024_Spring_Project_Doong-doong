@@ -67,7 +67,7 @@ Tomcat 8181 포트 연결
 ## 🙋‍♀️ Team_Member 🙋‍♀️
 
 #### [😆 Chordingg 👉 GitHub](https://github.com/Chordingg)
-#### [😆 Jang seh yul 👉 GitHub] 
+#### [😆 Jang seh yul 👉 GitHub](https://github.com/jangseyeol)
 
 ### 🙋‍♀️ 역할 분담 🙋‍♀️
 
