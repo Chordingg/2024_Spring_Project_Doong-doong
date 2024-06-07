@@ -109,6 +109,15 @@ Tomcat 8181 포트 연결
 ## 📈 요구 명세서 📈
 
 <details><summary>요구 명세서</summary>
+    <div>
+        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/ab59bdc3-957a-4d59-82fa-9a80affb745a"/>
+        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/eb1cf4ac-65a9-4b01-b289-50ef76d65acc"/>
+    </div>
+    <div>
+        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/96aae2e2-c144-4777-8896-0afc1adf3dad"/>
+        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/ee40d901-0d90-40db-a87a-f1e781f7d008"/>
+
+    </div>
   
 </details>
 
