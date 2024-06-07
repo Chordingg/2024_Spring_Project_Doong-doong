@@ -1,4 +1,4 @@
-<div align= "center">
+![슬라이드79](https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/7e8846e0-523f-46af-a856-6ef0b6fd0e91)![슬라이드53](https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/b090f129-b308-4c42-9924-7d3ee9f7a9a7)<div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:a5bbe9,100:a4dbc6&height=180&text=Project%20Doong-doong%20✈️%20&animation=fadeIn&fontColor=000000&fontSize=40" />
     <div align= "center"> 
      </div>
@@ -187,10 +187,71 @@ Tomcat 8181 포트 연결
 ## 📂 PPT 📂
 
 <details><summary>PPT</summary>
-    <div>
+     <div>
         <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/95b336ac-4573-4f42-b536-e4447478b819"  width="45%"/>
         <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/1077b234-a4df-4355-9285-69472e38c625"  width="45%"/>
+     </div>
+     <div>
+        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/4fac32ce-ffcf-4aa9-96e3-de4be2fc52f0"  width="45%"/>
+        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/945662e0-acd8-4c8b-aea4-86495cf3ce50"  width="45%"/>
+     </div>
+     <div>
+        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/5dfa1464-8d7a-4afd-a4b6-c5b280cdf633"  width="45%"/>
+        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/1f2817c6-710d-41a4-849c-72b21c9b5234"  width="45%"/>
     </div>
+    <div>
+        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/ab59bdc3-957a-4d59-82fa-9a80affb745a"  width="45%"/>
+        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/eb1cf4ac-65a9-4b01-b289-50ef76d65acc"  width="45%"/>
+    </div>
+    <div>
+        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/96aae2e2-c144-4777-8896-0afc1adf3dad"  width="45%"/>
+        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/ee40d901-0d90-40db-a87a-f1e781f7d008"  width="45%"/>
+    </div>
+    <div>
+         <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/5470fd7d-011d-409d-b852-69a0cab0f74f"  width="45%"/>
+         <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/21304876-6f6d-4654-8c57-e29b931f87fb"  width="45%"/>
+    </div>
+    <div>
+         <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/e51c2217-ba5c-4810-8150-a8d990c543c4"  width="45%"/>
+         <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/563300e2-0971-4db3-85f9-0e8f98c5871e"  width="45%"/>
+    </div>
+    <div>
+        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/b859430a-0fdf-44b9-b1cf-d2d9594989d9" width="45%"/>
+        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/0542ecfb-47ce-48b6-ba09-e55adff61f2a" width="45%"/>
+    </div>
+    <hr>
+     <div>
+        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/583df099-b1aa-470d-b5a2-72bcd6a5f047" width="45%"/>
+        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/b4da9be7-e6f9-4848-8e04-8b99b9c2a8f3" width="45%"/>
+    </div>
+     <div>
+        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/543cf47d-781d-4699-b74a-0559a6b59c3e" width="45%"/>
+        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/5bdfa591-3c2e-4a3b-9e1c-cb7bca6f91fa" width="45%"/>
+    </div>
+     <div>
+        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/d5d835b6-1e53-40d0-b33b-3308b6070559" width="45%"/>
+        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/674fe1b8-0a28-45a9-892f-52f904777733" width="45%"/>
+    </div>
+    <div>
+        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/520e3166-5dfe-4ab5-b7b1-040004d3b8f5" width="45%"/>
+        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/111ee55d-1a47-4486-ba9c-2dc2cf44a88b" width="45%"/>
+    </div>
+    <div>
+        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/5932327f-4702-4c0a-96e2-ce58eca95cca" width="45%"/>
+        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/2d91546b-47f1-43da-944a-69caa59e3e6a" width="45%"/>
+    </div>
+     <div>
+        <img src="" width="45%"/>
+        <img src="" width="45%"/>
+    </div>
+   
+    
+
+
+
+
+
+    
 
 
 
