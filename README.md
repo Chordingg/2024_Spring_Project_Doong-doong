@@ -110,15 +110,20 @@ Tomcat 8181 포트 연결
 
 <details><summary>요구 명세서</summary>
     <div>
-        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/ab59bdc3-957a-4d59-82fa-9a80affb745a"/>
-        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/eb1cf4ac-65a9-4b01-b289-50ef76d65acc"/>
+        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/ab59bdc3-957a-4d59-82fa-9a80affb745a"  width="45%"/>
+        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/eb1cf4ac-65a9-4b01-b289-50ef76d65acc"  width="45%"/>
     </div>
     <div>
-        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/96aae2e2-c144-4777-8896-0afc1adf3dad"/>
-        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/ee40d901-0d90-40db-a87a-f1e781f7d008"/>
-
+        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/96aae2e2-c144-4777-8896-0afc1adf3dad"  width="45%"/>
+        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/ee40d901-0d90-40db-a87a-f1e781f7d008"  width="45%"/>
     </div>
-  
+    <div>
+         <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/5470fd7d-011d-409d-b852-69a0cab0f74f  width="45%"/>
+         <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/21304876-6f6d-4654-8c57-e29b931f87fb  width="45%"/>
+    </div>
+    <div>
+        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/e51c2217-ba5c-4810-8150-a8d990c543c4  width="45%"/>
+    </div>
 </details>
 
 <hr>
