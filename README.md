@@ -62,11 +62,13 @@ Spring Framework STS를 사용하여 구현
 
 ## 🔧 Development Environment 🔧
 ```
-언어 : Java(jdk 11), JavaScript()
+언어 : Java(jdk 11), JavaScript(3.22)
 서버 : Apache Tomcat 9.0 (3.9.18)
-프레임워크 : MyBatis (3.5.11)
+프레임워크 : MyBatis (3.5.11), Spring(5.3.23)
+Tool : SpringSource Tool Suite (STS) 3.9.18.RELEASE
+라이브러리 : JQuery, Lombok
 DBMS : OracleDB (11)
-API, 라이브러리 : Kakao Login/Map API, JQuery, Lombok
+API : Kakao Login/Map
 ETC : Git
 ```
 
