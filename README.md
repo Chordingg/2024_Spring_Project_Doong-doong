@@ -185,11 +185,12 @@ Tomcat 8181 포트 연결
 ## 📂 PPT 📂
 
 <details><summary>PPT</summary>
-    
     <div>
-        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/ab59bdc3-957a-4d59-82fa-9a80affb745a"  width="45%"/>
-        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/eb1cf4ac-65a9-4b01-b289-50ef76d65acc"  width="45%"/>
+        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/95b336ac-4573-4f42-b536-e4447478b819"  width="45%"/>
+        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/1077b234-a4df-4355-9285-69472e38c625"  width="45%"/>
     </div>
+
+
 
 </details>
 
