@@ -155,12 +155,13 @@ Tomcat 8181 포트 연결
     <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/563300e2-0971-4db3-85f9-0e8f98c5871e" />
 </details>
 
-<details><summary>논리적 모델</summary>
-    <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/b458f4d5-6392-46c4-ac2b-1d21d8a49c3a" />
+<details><summary>논리적 모델링</summary>
+    <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/b859430a-0fdf-44b9-b1cf-d2d9594989d9" />
+
 </details>
    
 <details><summary>ERD</summary>
-     <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/0542ecfb-47ce-48b6-ba09-e55adff61f2a" />
+    <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/0542ecfb-47ce-48b6-ba09-e55adff61f2a" />
 </details>
 
 <hr>
