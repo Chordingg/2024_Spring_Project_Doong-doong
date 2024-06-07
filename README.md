@@ -14,7 +14,7 @@
 ***
 
 
-## 📋 DoongDoong Project 
+## 📌 소개 📌
 ```
 주제 설명 : 사진 인화 웹 페이지에서 드론 배송이 가능한 웹 사이트 입니다.
 ```
@@ -30,7 +30,7 @@
 ```
 <hr>
 
-## 📋 Project 목적 
+## 👀 목적 👀
 ```
 사업적인 부분 :
 1. 사진 인화 및 드론 배송 시스템을 개발하여 안정적이고 
@@ -50,7 +50,7 @@
 ```
 <hr>
 
-## 📖 구현 방법
+## 👨‍💻 구현 방법 👩‍💻
 ```
 Spring FrameWork STS 를 이용하여 ...
 ```
@@ -79,21 +79,15 @@ Tomcat 8181 포트 연결
 
 <hr>
 
-## ❓ 기획 의도 ❓
-```
-수정 중..
-```
-<hr>
-
-## 🙋‍♀️ Team_Member 🙋‍♀️
+## 👨‍👦‍👦 Team_Member 👨‍👦‍👦
 
 #### [😆 Chordingg 👉 GitHub](https://github.com/Chordingg)
 #### [😆 Jang seh yul 👉 GitHub](https://github.com/jangseyeol)
 
-### 🙋‍♀️ 역할 분담 🙋‍♀️
+### 🙋‍♂️ 역할 분담 🙋‍♀️
 
-#### 🔨 Chordingg 👉 로그인, 회원가입, 메인페이지, 
-#### 🔨 Jang seh yul 👉 상품 리뷰(댓글) / QnA ] 
+#### 🔨 Chordingg 👉 로그인, 회원가입, 메인페이지, Service부분(공지사항, 자주묻는질문), 소개, 지도 API, CSS
+#### 🔨 Jang seh yul 👉 상품 주문, 장바구니, 사진 인화, 카카오 로그인 API
 
 <hr>
 
@@ -106,7 +100,7 @@ Tomcat 8181 포트 연결
 
 <hr>
 
-## 📈 요구 명세서 📈
+## 📝 요구 명세서 📝
 
 <details><summary>요구 명세서</summary>
     <div>
