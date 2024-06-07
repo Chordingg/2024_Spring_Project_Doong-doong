@@ -1,4 +1,4 @@
-![슬라이드79](https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/7e8846e0-523f-46af-a856-6ef0b6fd0e91)![슬라이드53](https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/b090f129-b308-4c42-9924-7d3ee9f7a9a7)<div align= "center">
+<div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:a5bbe9,100:a4dbc6&height=180&text=Project%20Doong-doong%20✈️%20&animation=fadeIn&fontColor=000000&fontSize=40" />
     <div align= "center"> 
      </div>
