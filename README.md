@@ -122,7 +122,7 @@ Tomcat 8181 포트 연결
          <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/21304876-6f6d-4654-8c57-e29b931f87fb"  width="45%"/>
     </div>
     <div>
-        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/e51c2217-ba5c-4810-8150-a8d990c543c4"  width="80%"/>
+         <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/e51c2217-ba5c-4810-8150-a8d990c543c4"  width="45%"/>
     </div>
 </details>
 
