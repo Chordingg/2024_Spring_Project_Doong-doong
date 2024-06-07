@@ -185,36 +185,11 @@ Tomcat 8181 포트 연결
 ## 📂 PPT 📂
 
 <details><summary>PPT</summary>
-
     
-![PowerPoint 슬라이드 쇼 -  Doong-doong  프로젝트  2024-05-30 오전 10_28_40](https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/1c6053e4-a2cb-4857-b56a-58d19c547a08)
-
-![PowerPoint 슬라이드 쇼 -  Doong-doong  프로젝트  2024-05-30 오전 10_28_51](https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/fd2dc94e-6c9f-419f-86fa-f21c467919ff)
-
-![PowerPoint 슬라이드 쇼 -  Doong-doong  프로젝트  2024-05-30 오전 10_28_54](https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/07a0cce3-ba59-4a3b-9f96-8bbf6b0caf5e)
-
-![PowerPoint 슬라이드 쇼 -  Doong-doong  프로젝트  2024-05-30 오전 10_28_58](https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/8d1a8bd1-d00d-490f-8c68-20c82f62988c)
-
-![PowerPoint 슬라이드 쇼 -  Doong-doong  프로젝트  2024-05-30 오전 10_29_00](https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/e93eecc9-fe3d-4a06-9fda-ac232d468608)
-
-![PowerPoint 슬라이드 쇼 -  Doong-doong  프로젝트  2024-05-30 오전 10_29_02](https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/b4ae4d59-b260-4211-9fd5-b00c90d632b1)
-
-![PowerPoint 슬라이드 쇼 -  Doong-doong  프로젝트  2024-05-30 오전 10_29_03](https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/b49086ea-25fb-4e50-9e54-bc79e47fa681)
-
-![PowerPoint 슬라이드 쇼 -  Doong-doong  프로젝트  2024-05-30 오전 10_29_05](https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/88930a57-ce32-4ace-970c-a0c6bac6f55e)
-
-![PowerPoint 슬라이드 쇼 -  Doong-doong  프로젝트  2024-05-30 오전 10_29_06](https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/5a82b75b-b2a3-415e-a09b-f5ed2f9894c6)
-
-![PowerPoint 슬라이드 쇼 -  Doong-doong  프로젝트  2024-05-30 오전 10_29_07](https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/c45ca37e-ac53-4d1a-98f7-6f13ff43a213)
-
-![PowerPoint 슬라이드 쇼 -  Doong-doong  프로젝트  2024-05-30 오전 10_29_16](https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/fc4a7af0-7b1a-48b7-b39b-56138882c3ed)
-
-![PowerPoint 슬라이드 쇼 -  Doong-doong  프로젝트  2024-05-30 오전 10_29_18](https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/0cb99f49-b73e-4b71-8d8b-07aaac640c9b)
-
-![PowerPoint 슬라이드 쇼 -  Doong-doong  프로젝트  2024-05-30 오전 10_29_19](https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/61d47bac-89c8-4340-bd16-1d0bf3b207d8)
-
-
-
+    <div>
+        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/ab59bdc3-957a-4d59-82fa-9a80affb745a"  width="45%"/>
+        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/eb1cf4ac-65a9-4b01-b289-50ef76d65acc"  width="45%"/>
+    </div>
 
 </details>
 
