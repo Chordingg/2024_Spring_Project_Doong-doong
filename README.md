@@ -182,7 +182,7 @@ Tomcat 8181 포트 연결
 https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/6f19de43-3303-4abb-9155-5857ea61d22e
 
 
-https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/a65afa8a-a333-432e-a0dd-f816359bd20a
+https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/3b6da367-f0d7-4729-ace5-ec66a964c344
 
 
 </details>
