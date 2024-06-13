@@ -190,46 +190,64 @@ https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/a1
 
 </details>
 
-    
+
+<details><summary>회원 정보 수정 & 탈퇴</summary>
+
+<h3>로그인 된 회원 데이터 가져와서 회원 정보 수정</h3>
+
+https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/470ca709-8795-4a37-8e9c-da35ef5f990f
+
+<h3>회원 탈퇴</h3>
+
+https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/142aef14-9850-4f6b-8d4e-4f1e32a50f9a
+
+
 <details><summary>메인 페이지 & 상품 리스트</summary>
 
 <h3>메인 페이지</h3>
 
 https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/ed3f71b0-f7a7-42f6-93af-8c9234baf5a7
 
-
-
-
 </details>
 
 
 <details><summary>Introduction / Kakao Map API</summary>
 
+<h3>홈페이지 소개글</h3>
 
 https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/6f19de43-3303-4abb-9155-5857ea61d22e
 
+<h3>Kakao API를 통해서 업체 위치 보여주기</h3>
 
 https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/3b6da367-f0d7-4729-ace5-ec66a964c344
-
 
 </details>
 
 
 <details><summary>공지사항 & 자주 묻는 질문</summary>
 
+<h3>공지사항</h3>
 
 https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/1a877c04-007a-4193-87b9-e106ed32a1af
 
+<h3>자주 묻는 질문(테이블 설계 X)</h3>
 
 https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/a679f284-448b-45bd-81c4-ca82ba1e13cd
-
 
 </details>
 
 
 <details><summary>장바구니 & 결제</summary>
 
+<h3>충전 금액을 이용해서 결제</h3>
+
+https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/294898ec-9600-488e-880e-d463ad08224e
+
 </details>
+
+<h3>결제 후 충전 금액 확인</h3>
+
+https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/a0dbeba2-ce8f-4962-9a0b-de97f9535e4f
 
 <hr>
 
