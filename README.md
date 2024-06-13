@@ -201,6 +201,8 @@ https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/47
 
 https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/142aef14-9850-4f6b-8d4e-4f1e32a50f9a
 
+</details>
+
 
 <details><summary>메인 페이지 & 상품 리스트</summary>
 
@@ -243,11 +245,11 @@ https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/a6
 
 https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/294898ec-9600-488e-880e-d463ad08224e
 
-</details>
-
 <h3>결제 후 충전 금액 확인</h3>
 
 https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/a0dbeba2-ce8f-4962-9a0b-de97f9535e4f
+
+</details>
 
 <hr>
 
