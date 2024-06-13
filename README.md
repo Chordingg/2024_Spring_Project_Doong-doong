@@ -168,6 +168,10 @@ Tomcat 8181 포트 연결
 
 <details><summary>회원가입 및 로그인</summary>
 
+<h3>비회원</h3>
+
+https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/69b42ca5-f659-46da-9789-95fc54e2bea7
+
 <h3>일반 로그인</h3>
 
 https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/222e666b-53c8-4842-a4eb-7f1bc9e17d70
@@ -175,7 +179,6 @@ https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/22
 <h3>카카오 로그인</h3>
 
 https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/e77aa735-bced-4108-bd91-42f746aa807f
-
 
 <h3>휴대전화 인증을 통해 아이디 찾기</h3>
 
@@ -185,12 +188,17 @@ https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/51
 
 https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/a1f18f32-77a8-4956-babf-8b0d6327ff3c
 
-
-
 </details>
 
     
-<details><summary>상품 리스트 & 상세보기</summary>
+<details><summary>메인 페이지 & 상품 리스트</summary>
+
+<h3>메인 페이지</h3>
+
+https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/ed3f71b0-f7a7-42f6-93af-8c9234baf5a7
+
+
+
 
 </details>
 
