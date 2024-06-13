@@ -188,7 +188,14 @@ https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/3b
 </details>
 
 
-<details><summary>리뷰 & QnA</summary>
+<details><summary>공지사항 & 자주 묻는 질문</summary>
+
+
+https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/1a877c04-007a-4193-87b9-e106ed32a1af
+
+
+https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/a679f284-448b-45bd-81c4-ca82ba1e13cd
+
 
 </details>
 
