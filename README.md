@@ -166,7 +166,7 @@ Tomcat 8181 포트 연결
 
 ## 📹 시연 영상 📹
 
-<details><summary>회원가입 및 로그인</summary>
+<details><summary>회원가입 & 로그인</summary>
 
 <h3>비회원</h3>
 
@@ -213,7 +213,7 @@ https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/ed
 </details>
 
 
-<details><summary>Introduction / Kakao Map API</summary>
+<details><summary>소개 & 지도</summary>
 
 <h3>홈페이지 소개글</h3>
 
@@ -239,7 +239,11 @@ https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/a6
 </details>
 
 
-<details><summary>장바구니 & 결제</summary>
+<details><summary>주문 & 장바구니 & 결제</summary>
+
+<h3>사진 인화 주문</h3>
+
+https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/286012d7-3f58-4319-a95b-2ab9ce020746
 
 <h3>충전 금액을 이용해서 결제</h3>
 
@@ -250,6 +254,20 @@ https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/29
 https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/a0dbeba2-ce8f-4962-9a0b-de97f9535e4f
 
 </details>
+
+
+<details><summary>관리자 모드</summary>
+
+<h3>공지사항 수정 & 삭제</h3>
+
+https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/84661994-e311-4d30-b28e-4632f408febf
+
+<h3>주문 현황</h3>
+
+https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/1b6cc92f-74e3-4d9f-af1c-d2a64844f565
+
+</details>
+
 
 <hr>
 
