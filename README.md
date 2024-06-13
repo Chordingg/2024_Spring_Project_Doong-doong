@@ -168,6 +168,10 @@ Tomcat 8181 포트 연결
 
 <details><summary>회원가입 & 로그인</summary>
 
+<h3>회원가입</h3>
+
+https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/5bdf0d8e-7865-4bcf-8394-7a294d0c2067
+
 <h3>비회원</h3>
 
 https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/69b42ca5-f659-46da-9789-95fc54e2bea7
